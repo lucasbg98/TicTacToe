@@ -142,5 +142,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Se tiver dúvidas ou sugestões, entre em contato ou abra uma issue neste repositório. 😊
 
 ---
-
-Se precisar de mais algum ajuste ou melhorias, é só me avisar!
