@@ -132,7 +132,7 @@ tictactoe/
 
 ## 👥 Contribuidores
 
-- **[Seu Nome](https://github.com/lucasbg98)**  
+- **[Lucas Bragança Gonçalves](https://github.com/lucasbg98)**  
   Desenvolvedor Fullstack.
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
